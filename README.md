@@ -16,6 +16,6 @@ You can either download the source or add to gradle via jitpack.io Add jitpack t
 And include the library in your dependencies
 
   	dependencies {
-	        compile 'com.github.ninjapratap:RockingToast:0.1.1'
+	        compile 'com.github.ninjapratap:RockingToast:1.0.0'
 	}
 
